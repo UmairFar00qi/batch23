@@ -70,7 +70,7 @@ export default function Admin() {
 // 1. Stat Card Component
 const StatCard = ({ title, count, color }) => (
   <div style={{
-    backgroundColor: "#fff",
+    backgroundColor: "black",
     padding: "25px",
     borderRadius: "12px",
     boxShadow: "0 4px 6px rgba(0,0,0,0.05), 0 1px 3px rgba(0,0,0,0.1)",
